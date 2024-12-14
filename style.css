@@ -1,0 +1,20 @@
+/* tailwind.config.js  */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "ashington";
+    src: url("./fonts/Ashington-DO11x.otf");
+}
+@font-face {
+    font-family: "crang";
+    src: url("./fonts/Crang.ttf");
+}
+
+/* color: 293774 9051A2 FA5D66 FFA1C5 FDFEEC */
+body{
+    background: #FDFEEC;
+    font-family:'Times New Roman';
+}
